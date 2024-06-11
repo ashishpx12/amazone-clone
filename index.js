@@ -1,0 +1,1 @@
+alert("this website is a only clone by ashish to by your needs things to go on amazone");;
